@@ -7,7 +7,7 @@ A payments app for frappe.
 
 2. Once setup is complete, add the payments app to your bench by running
     ```
-    $ bench get-app payments
+    $ bench get-app payments https://github.com/mattwamoto/payments.git
     ```
 3. Install the payments app on the required site by running
     ```
